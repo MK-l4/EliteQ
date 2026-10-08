@@ -4,17 +4,10 @@
 #support-url: https://wa.me/79894907111
 #profile-web-page-url: NO
 #announce: EliteQ — только начало 😈
-#--------WIFI 🔥-------#
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@ru3.ghostyconnect.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru3.ghostyconnect.org&pbk=gyxmHhZGVwv__xhL9xgbC5IViZ4SOqp3Naosi-CPqQs&fp=firefox#🇪🇺⚡ Быстрый
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@ru4.ghostyconnect.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru4.ghostyconnect.org&pbk=kR6vA5pjIzclGj63zP_R3rb-OKLxnCOy-_62hdPObyg&fp=firefox#🇪🇺⚡ Быстрый резерв
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@hy2f2.ghostyconnect.org:443?encryption=none&type=xhttp&security=reality&sni=hy2f2.ghostyconnect.org&pbk=aO9nPO1DbHGhrgnIwdDrb-CRCjqp1GpN0VtWFxAUCFk&fp=chrome&path=/api/v2/live&host=hy2f2.ghostyconnect.org&mode=auto#🇪🇺⚡ Быстрый 2
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@ru1.ghostyconnect.org:443?encryption=none&type=grpc&security=reality&sni=ru1.ghostyconnect.org&pbk=BogPh3McFYB2UI3e8rjMIMtbDa1lCMV2p5mipL5U9g0&fp=firefox&serviceName=br-grpc#🇪🇺⚡ Быстрый 3
-#-------ОБХОДЫ ⚡️-----#
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@78.159.245.245:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=i6tgFm5IWSKry7CIMC2P4Wyyencd_sZWB1qXcBfIxXs&fp=firefox#🇪🇺Антиглушилка LTE
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@158.160.54.130:8443?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&pbk=UuAHZ4l2w483s7191Iedg4PbTZMXIDV6a4aWyvbtD0Q&fp=safari&path=/api/v1/ads&host=ads.x5.ru&mode=auto#🇪🇺#2 Антиглушилка LTE
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@84.201.139.167:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=Lh90e-f4v4s8-P5b7TFgf3-QmOPfG0HoFHCtr75Uukk&fp=firefox#🇪🇺#3 Антиглушилка LTE
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@109.73.202.38:443?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&pbk=BTCsoecdUco3iNBRSVvM9d47jxK-hJ7tkr36DtFw1UU&fp=firefox&path=/api/v1/ads&host=ads.x5.ru&mode=auto#🇪🇺#4 Антиглушилка LTE
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@51.250.68.249:443?encryption=none&type=grpc&security=reality&sni=ads.x5.ru&pbk=jM-tx2o7VssjKLsg9pIM6gJXx4XYneN2mIbkx_D8cD0&fp=safari&serviceName=ya_3-grpc#🇪🇺#5 Антиглушилка LTE
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@37.139.42.225:9443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=vk.ru&pbk=SWv1P6OwpMH4if6TYxe7jrVQXlByBeL_HSRE37uRgzc&fp=firefox#🇪🇺#6 Антиглушилка LTE
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@188.225.76.182:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=max.ru&pbk=VIr9PcD-QzbJFnWj1-jarRdiwyz2cqnm6wgIV2MyUio&fp=firefox#🇪🇺#7 Антиглушилка LTE
-vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@81.94.148.148:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=passport.yandex.ru&pbk=Mkk6A1DbTaQYd3DHsQsDfRVIcS5-gpN3IXj1F_fxZjI&fp=safari#🇪🇺#8 Антиглушилка LTE
+#--------WIFI,ОБХОДЫ🔥-------#
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&fp=chrome&type=tcp&sni=ge-s-1.pythonmakemigreat.wiki&sid=2c9a2790ad5900b2#🇪🇺⚡️ Быстрый
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&fp=chrome&type=tcp&sni=qq.utiltools.site#🇪🇺💊 Антизаглушка Резерв
+
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&fp=chrome&type=tcp&sni=qq.utiltools.site&sid=00000000&spx=/19#🇪🇺#1 Антизаглушка
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&fp=chrome&type=tcp&sni=qq.utiltools.site&spx=/20#🇪🇺#2 Антизаглушка
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&fp=chrome&type=tcp&sni=qq.utiltools.site&sid=00000000&spx=/21#🇪🇺#3 Антизаглушка
