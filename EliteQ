@@ -1,2 +1,36 @@
-#profile-title: Не дествительна
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=qq.utiltools.site&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&sid=00000000#%F0%9F%87%AA%F0%9F%87%BA%D0%90%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0%20%F0%9F%98%88
+#profile-title: EliteQ
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=; expire=0
+#support-url: https://wa.me/79894907111
+#profile-test-interval: 300
+#profile-auto-switch: true
+#profile-allow-copy: false
+#profile-locked: true
+#profile-read-only: true
+#profile-prefer-ipv4: true
+#auto-continue: true
+#sort-order: ping
+#subscription-pin: 1
+#subscriptions-collapse: 0
+#hide-settings: 1
+#per-app-proxy-mode: bypass
+#per-app-proxy-list: ru.oneme.app,ru.rostel,ru.gosuslugi.dom,ru.gosuslugi.auto,ru.gosuslugi.pos,ru.russianpost.client,com.octopod.russianpost.client.android,ru.crpt.mark,io.citizens.security,ru.fns.nalog,com.gnivc.selfemployed,ru.rddm.app,ru.rsv.app,ru.beeline.services,ru.megafon.mlk,ru.mts.mymts,ru.tele2.mytele2,com.rostelecom.my,ru.motivtelecom.lk,com.ertelecom.mydomru,ru.cbr.cbonline,ru.nspk.sbpay,ru.nspk.mir.loyalty,ru.nspk.mirpay,ru.vtb24.mobilebanking,ru.psbank.mb,ru.alfabank.mobile.android,ru.gazprombank.android.mobilebank.app,ru.mts.money,com.moex.iss,com.vkontakte.android,ru.vk.video,com.uma.musicvk,com.vk.vkvideo,com.vk.im,com.vk.love,ru.vk.store,ru.vk.store.tv,ru.ok.android,ru.mail.mailapp,ru.yandex.searchplugin,ru.yandex.music,ru.kinopoisk,ru.rutube.app,com.yandex.zen,ru.zen.android,ru.rian.offline,ru.itar_tass.tass,ru.rbc.news,ru.kommersant.app,ru.iz.news,ru.kp.awp,com.vgtrk.smotrim,com.channelone.live,com.rt.mobile.russian,ru.ozon.app.android,com.wildberries.ru,com.avito.android,ru.yandex.market,ru.beru.android,ru.megamarket.marketplace,pro.cdek.client,ru.instamart,ru.samokat.client,ru.sbcs.store,ru.mcdonalds.android,com.apegroup.mcdonaldsrussia,ru.burgerking,ru.vkusvill,ru.pyaterochka.app,ru.perekrestok.app,ru.tander.magnit,ru.auchan,com.metro.ru,ru.rzd.pass,ru.aeroflot,com.pobeda.app,ru.tutu.avia,ru.tutu.trains,ru.dublgis.dgismobile,ru.yandex.taxi,ru.yandex.yandexmaps,ru.foodfox.client,com.taximaxim,ru.citydrive.app,com.carshering,ru.dellin.app,ru.domclick.app,ru.hh.android,com.gismeteo.client
+#announce:Статус подписки: ✅ активна | 📲 Создатель - +79894907111 
+
+vless://848bcdb3-1e77-4145-8208-182684f93902@177.3.217.95:7443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&fp=firefox#🇪🇺 Авто EU (Wi-Fi)
+vless://848bcdb3-1e77-4145-8208-182684f93902@193.23.201.136:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=google.com&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&fp=firefox#🇪🇺 Авто EU (Wi-Fi)
+vless://848bcdb3-1e77-4145-8208-182684f93902@177.3.219.19:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&fp=firefox#🇪🇺 Авто EU (Wi-Fi)
+vless://848bcdb3-1e77-4145-8208-182684f93902@179.253.166.59:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&fp=firefox#🇪🇺 Авто EU (Wi-Fi)
+vless://848bcdb3-1e77-4145-8208-182684f93902@2.56.123.162:7443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&fp=qq#🇪🇺 Авто EU (Wi-Fi)
+vless://848bcdb3-1e77-4145-8208-182684f93902@45.9.12.22:7443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&fp=qq#🇷🇺 Россия
+vless://848bcdb3-1e77-4145-8208-182684f93902@white.tortvpn.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=white.tortvpn.ru&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&fp=firefox# 🇷🇺 Обход LTE #1
+vless://848bcdb3-1e77-4145-8208-182684f93902@81.177.165.135:7443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=white.tortvpn.ru&pbk=-S6O4C1XJeA-ooqklOHT2WHiEPLckenId_JQNMs1-Us&fp=firefox#🇳🇱 Обход LTE #2
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?type=grpc&security=reality&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&fp=firefox&spx=/&encryption=none#🇪🇺 AUTO — Обход БС 76
+vless://54c4bece-fa4f-4ac3-9c19-7c12b379cd0a@selgw.phantom.direct:443?type=grpc&security=reality&serviceName=grpc&sni=selgw.phantom.direct&pbk=kxjx6ax6xfttNS6CSzgLVZZlKmvQ8d5EPY9ELQQjvkM&sid=10600edc6cfa209e&fp=firefox&spx=/&encryption=none#🇪🇺 AUTO — Обход БС 24
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@217.149.30.73:8443?type=tcp&security=reality&sni=time.nztvpn.com&pbk=p87u9cOh91BaXsKS-HoCoOUXxHcOwkM6ByTWmz_6b2Y&sid=0da7e14db353e7d0&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇪🇺 AUTO — Обход БС 82
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.28:443?type=grpc&security=reality&serviceName=cloud.v1.RelayService&sni=bg4.univesalsrv.com&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&fp=firefox&spx=/&encryption=none#🇪🇺 AUTO — Обход БС 84
+vless://ccd6419d-6943-4e7c-bc8c-7a157dadff80@82.202.179.104:9443?type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=tvc-zUxqKX5P3DrZ2OiLIKHVPeu5MKjFLRWRYcvL3BQ&sid=9b027a0fe332&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇪🇺 AUTO — Обход БС 13
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&security=reality&sni=jp3.nztvpn.com&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇪🇺 AUTO — Обход БС 83
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&fp=firefox&spx=/&encryption=none#🇪🇺 AUTO — Обход БС 81
+vless://ccd6419d-6943-4e7c-bc8c-7a157dadff80@82.202.182.40:1443?type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&pbk=DPQZz0DSeKFq3Q6-h7PTWngUuITOs8r0-MQiXGgLRRE&sid=49900b0593d610&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇪🇺 AUTO — Обход БС 15
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@195.133.80.152:443?type=tcp&security=reality&sni=pl3.nztvpn.com&pbk=UcFVpzbYTy8Iym6ZnCAtLQK-MeRg6wZuyni4xEOKG18&sid=0da7e14db353e7d0&fp=firefox&encryption=none&flow=xtls-rprx-vision#🇪🇺 AUTO — Обход БС 77
