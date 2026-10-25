@@ -1,11 +1,11 @@
-#profile-title: Silence 1
+#profile-title: Silence sk
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=; expire=0
 #support-url: https://t.me/S1lenceVPN
 #profile-web-page-url: https://t.me/BUNKER_KOTA
-#add_header Sub-Info-Text "ЧебурNet 🔥 — Лучший бесплатный впн!";
-#add_header Sub-Info-Button-Text "поддержка";
-#add_header support-url "https://t.me/CheburNet_robot";
+#Sub-Info-Text "Silence 🔥 — Лучший бесплатный впн!";
+#Sub-Info-Button-Text "поддержка";
+#support-url "https://t.me/S1lenceVPN"
 #profile-test-interval: 300
 #profile-auto-switch: true
 #profile-allow-copy: false
